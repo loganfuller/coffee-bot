@@ -1,0 +1,13 @@
+{
+    "coffeeBrewTimeSec": 540,
+    "coffeeFreshTimeSec": 5400,
+    "slack": {
+        "apiToken": "CHANGE_ME",
+        "channel": "#coffee",
+        "username": "coffee-bot"
+    },
+    "gpioChannels": {
+        "flow": 16,
+        "force": 19
+    }
+}

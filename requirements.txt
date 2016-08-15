@@ -1,0 +1,5 @@
+slackclient
+Adafruit_GPIO
+Adafruit_SSD1306
+RPi.GPIO
+PIL
